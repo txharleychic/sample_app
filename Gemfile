@@ -15,6 +15,7 @@ group :test do
 	gem 'rspec-rails', ">= 2.0.1"
 	gem 'rspec'
 	gem 'webrat'
+	gem 'spork'
 end
 
 
