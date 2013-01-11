@@ -56,3 +56,4 @@ describe PagesController do
   end
 
 end
+
